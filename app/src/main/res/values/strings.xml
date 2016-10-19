@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="toast">Toast</string>
+    <string name="others">Others</string>
+    <string name="text">Text</string>
+    <string name="settings">Settings</string>
+    <string name="menu_1">Item1</string>
+    <string name="menu_2">Item2</string>
+    <string name="menu_3">Item3</string>
+    <string name="show_setting_my">Show Setting</string>
+    <string name="show_key_my">Show Group</string>
+    <string name="text_color_diff">Text Color</string>
+    <string name="text_size_diff">Text Size</string>
+</resources>
